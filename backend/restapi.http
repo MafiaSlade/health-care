@@ -1,0 +1,7 @@
+  POST http://localhost:5000/generate-content
+  Content-Type: application/json
+
+  {
+    "content": "i am having cold what should i do?"
+  }
+  
